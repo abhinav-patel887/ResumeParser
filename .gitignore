@@ -1,0 +1,14 @@
+# Node.js (Backend)
+Backend/node_modules/
+Backend/.env
+Backend/uploads/
+
+# React (Frontend)
+ATSResume/node_modules/
+ATSResume/.env
+ATSResume/build/
+
+# General
+.DS_Store
+*.log
+*.sqlite
